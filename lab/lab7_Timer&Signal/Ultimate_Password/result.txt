@@ -1,0 +1,7 @@
+[game] Guess 50, smaller
+[game] Guess 25, smaller
+[game] Guess 12, smaller
+[game] Guess 6, smaller
+[game] Guess 3, smaller
+[game] Guess 1, bigger
+[game] Guess 2, bingo
